@@ -1625,7 +1625,7 @@
 	body {
 		background-color: #2e3141;
 		/*background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg");*/
-		background-image: url('/homes/3/jhw30/Documents/YendikiRainbowBrain.png');
+		background-image: url('../../images/YendikiRainbowBrain.png');
 		background-size: cover;
 		background-attachment: fixed;
 		background-position: center center;
@@ -1636,7 +1636,7 @@
 	body.style2 {
 		background-color: #2e3141;
 		/*background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg");*/
-		background-image: url('/homes/3/jhw30/Documents/YendikiRainbowBrain.png');
+		background-image: url('../../images/YendikiRainbowBrain.png');
 		background-size: cover;
 		background-attachment: fixed;
 		background-position: center center;
@@ -3263,7 +3263,7 @@ overflow: auto;
 /*
 				background-color: #2e3141;
 				background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg");
-				background-image: url('/homes/3/jhw30/Documents/YendikiRainbowBrain.png');
+				background-image: url('../../images/YendikiRainbowBrain.png');
 				background-size: auto, cover;
 				background-position: center, center;
 */
@@ -3993,7 +3993,7 @@ overflow: auto;
 		#footer {
 			/*background-color: #2e3141;
 			background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg");
-			background-image: url('/homes/3/jhw30/Documents/YendikiRainbowBrain.png');
+			background-image: url('../../images/YendikiRainbowBrain.png');
 			background-size: auto, cover;
 			background-position: center, center;*/
 			margin-top: -6.5em;
