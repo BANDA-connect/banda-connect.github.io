@@ -3787,8 +3787,9 @@
 			width: calc(50% - 1.5em);
 		}
 
+		/*contact width*/
 		#footer .inner .contact {
-			width: calc(50% - 1.5em);
+			width: calc(100% - 1.5em);
 		}
 
 		#footer .inner .copyright {
