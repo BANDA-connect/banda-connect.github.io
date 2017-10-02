@@ -2414,6 +2414,7 @@
 		}
 
 			ul.contact li {
+				display:inline-block;
 				text-decoration: none;
 				margin: 2.5em 0 0 0;
 				padding: 0 0 0 3.25em;
